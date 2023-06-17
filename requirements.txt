@@ -1,0 +1,12 @@
+seaborn
+nltk
+matplotlib
+scikit-learn
+wordcloud
+pandas
+spacy
+textblob
+mlxtend
+selenium
+numpy
+imblearn
